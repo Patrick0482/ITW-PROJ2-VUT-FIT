@@ -172,7 +172,7 @@ h5{
 header {
     height: 100vh;
     width: 100vw;
-    background-image: url("/img/header.png");
+    background-image: url("header.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
