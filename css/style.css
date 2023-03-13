@@ -172,7 +172,7 @@ h5{
 header {
     height: 100vh;
     width: 100vw;
-    background-image: url("/img/header.png");
+    background-image: url("img/header.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -208,7 +208,7 @@ header h2{
     position: absolute;
     z-index: 1;
     display: block;
-    background-image: url(/img/city.jpg);
+    background-image: url(img/city.jpg);
     background-repeat: no-repeat;
     width: 100vw;
     height: 98vh;
@@ -242,7 +242,7 @@ header h2{
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     border: 5px white solid;
     overflow: hidden;
-    background-image: url(/img/myself.jpg);
+    background-image: url(img/myself.jpg);
     background-size: cover;
 }
 
@@ -271,7 +271,7 @@ header h2{
     width: 100%;
     height: 100%;
     overflow: hidden;
-    background-image: url(/img/myself.jpg);
+    background-image: url(img/myself.jpg);
     filter: blur(10px);
     background-size: cover;
     opacity: 0.25;
